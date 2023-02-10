@@ -147,22 +147,22 @@ This is why we love React.
 
 - Provide the connecting context and use case when describing new concepts
 (why should students care?)
-- I believe I provided the use case by describing Google Maps, and I would demo this website live in class with the students, as well as use the whiteboard if I am in person or draw on the screen if I am in Zoom.
+  - I believe I provided the use case by describing Google Maps, and I would demo this website live in class with the students, as well as use the whiteboard if I am in person or draw on the screen if I am in Zoom.
 - Provide intentional opportunities for students to engage with the lesson, ask
 questions, and demonstrate their current understanding.
-- I believe I allowed this when I say 'you have all heard of google maps' I would also expect students to respond to the prompt? What other things like this come to mind, and if they don't give me an example, I will bring up Netflix, or Door Dash. I also might consider showing a fully created React APP on my device and showing the actual data flow, one of the easiest ways to do this is an Ecommerce or Todo App.
+  - I believe I allowed this when I say 'you have all heard of google maps' I would also expect students to respond to the prompt? What other things like this come to mind, and if they don't give me an example, I will bring up Netflix, or Door Dash. I also might consider showing a fully created React APP on my device and showing the actual data flow, one of the easiest ways to do this is an Ecommerce or Todo App.
 - Be aware of the space you’re taking up in the room. Ideally, lessons include
 significant contributions from both the instructors and the students.
-- Agreed
+  - Agreed
 - Avoid technical jargon when explaining new concepts unless explicitly defined.
-- I believe State and The Virtual DOM are explained well for beginners and we can continue to build on it as we go through the lesson.
+  - I believe State and The Virtual DOM are explained well for beginners and we can continue to build on it as we go through the lesson.
 - Avoid going too deep into superfluous technical details.
-- I believe I only explained what was necessary. Superfluous things to me would include, talking about Dispatch Methods etc and all of the other things that go into making a hook work
+  - I believe I only explained what was necessary. Superfluous things to me would include, talking about Dispatch Methods etc and all of the other things that go into making a hook work
 - Do use analogies, visuals, or reference points to help students connect to new
 topics.
-- Agreed
+  - Agreed
 - Strike the right balance in debugging between guiding them and helping
 them discover the issue.
-- Agreed
+  - Agreed
 - Help students to learn the areas to check first when different issues come up
-- Agreed
+  - Agreed
